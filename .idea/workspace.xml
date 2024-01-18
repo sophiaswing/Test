@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e392aa7-e4c5-424e-ae6b-f6d2a73eaabd" name="Changes" comment="added main method &amp; print statement" />
+    <list default="true" id="9e392aa7-e4c5-424e-ae6b-f6d2a73eaabd" name="Changes" comment="added main method &amp; print statement">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +104,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705548184042</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added main method &amp; print statement">
+      <option name="closed" value="true" />
+      <created>1705620960959</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705620960959</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added main method &amp; print statement">
+      <option name="closed" value="true" />
+      <created>1705620989041</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705620989041</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
