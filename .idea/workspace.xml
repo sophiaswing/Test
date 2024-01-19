@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e392aa7-e4c5-424e-ae6b-f6d2a73eaabd" name="Changes" comment="skjfgkjljfklkjlfd">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9e392aa7-e4c5-424e-ae6b-f6d2a73eaabd" name="Changes" comment="sophia">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,13 +128,30 @@
       <option name="project" value="LOCAL" />
       <updated>1705622109945</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="skjfgkjljfklkjlfd">
+      <option name="closed" value="true" />
+      <created>1705625565138</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705625565138</updated>
+    </task>
+    <task id="LOCAL-00009" summary="sophia">
+      <option name="closed" value="true" />
+      <created>1705626052689</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705626052689</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added main method &amp; print statment" />
     <MESSAGE value="added main method &amp; print statement" />
     <MESSAGE value="skjfgkjljfklkjlfd" />
-    <option name="LAST_COMMIT_MESSAGE" value="skjfgkjljfklkjlfd" />
+    <MESSAGE value="sophia" />
+    <option name="LAST_COMMIT_MESSAGE" value="sophia" />
   </component>
 </project>
